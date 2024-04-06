@@ -1,0 +1,110 @@
+﻿<style >
+.div {
+    background-color: #b9e6ff;
+    display: flex;
+    max-width: 456px;
+    flex-direction: column;
+    font-size: 14px;
+    color: #4181ff;
+    font-weight: 400;
+    white-space: nowrap;
+    padding: 20px 29px 12px;
+}
+
+.div-2 {
+    color: #131d53;
+    align-self: center;
+    font: 600 32px Inter, sans-serif;
+}
+
+.div-3 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 37px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 18px;
+}
+
+.div-4 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 26px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 17px;
+}
+
+.div-5 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 26px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 16px;
+}
+
+.div-6 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 26px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 17px;
+}
+
+.div-7 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 26px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 17px;
+}
+
+.div-8 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 25px;
+    justify-content: center;
+    align-items: start;
+    padding: 18px 60px 18px 17px;
+}
+
+.div-9 {
+    border-radius: 8px;
+    background-color: #131d53;
+    align-self: start;
+    margin-top: 23px;
+    justify-content: center;
+    color: #fff;
+    padding: 12px 26px;
+    font: 13px Inter, sans-serif;
+}
+.div-10 {
+    font-family: Inter, sans-serif;
+    border-radius: 5px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+    background-color: #fff;
+    margin-top: 12px;
+    justify-content: center;
+    align-items: start;
+    color: #4181ff;
+    white-space: nowrap;
+    padding: 16px 60px 16px 17px;
+}
+
+
+</style >
